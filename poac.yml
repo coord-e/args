@@ -4,7 +4,10 @@ cpp_version: 11
 owners:
   - "Taylor C. Richberger <taywee@gmx.com>"
   - "Pavel Belikov"
-description: "A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API)."
+description: |
+  A simple header-only C++ argument parser library.
+  Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
+  This library is created by Taylor C. Richberger <taywee@gmx.com> and Pavel Belikov, and distributed under MIT License.
 license: MIT
 links:
   github: https://github.com/Taywee/args
